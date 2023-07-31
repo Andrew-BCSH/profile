@@ -1,0 +1,66 @@
+h1 {
+  color: black;
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: x-large;
+  font-weight: 300;
+  line-height: normal;
+}
+
+h2 {
+  color: pink;
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: large;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.container1{
+  border: 10px solid red;
+  width: 300px;
+  height: 300px;
+  border-radius: 160px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px
+}
+
+p {
+  color:  black;
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: medium;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-center {
+  text-align: center;
+}
+
+a {
+  color: red;
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  line-height: normal;
+  text-decoration: none;
+}
+
+h2 {
+  color: orange;
+  background-color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: larger;
+  line-height: normal;
+}
+
+i  {
+  color: black;
+}
